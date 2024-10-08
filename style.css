@@ -1,0 +1,41 @@
+.container{
+  border: 1px solid yellow;
+  width: 300px;
+  margin: 10px;
+}
+
+.header{
+  border: 1px solid black;
+  margin: 8px;
+}
+
+.nav{
+  border: 1px solid black;
+  margin: 8px;
+  display: inline-block;
+  height: 20px;
+  width: 50px;
+}
+.nav-2{
+  border: 1px solid black;
+  margin-left: 150px;
+  margin-bottom: 8px;
+  display: inline-block;
+  height: 20px;
+  width: 50px;
+}
+
+.div-con{
+  border: 1px solid black;
+  margin: 10px;
+  display: inline-block;
+  height: 80px;
+  width: 75px;
+}
+
+.footer{
+  border: 1px solid black;
+  margin: 8px;
+  height: 20px;
+}
+
